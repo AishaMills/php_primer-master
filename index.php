@@ -1,6 +1,6 @@
  
    <?php 
-        $title = "index";
+        $title = "Index";
         include 'includes/header.php' 
     ?>
     <!-- Basic HTML -->
